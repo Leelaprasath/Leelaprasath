@@ -184,12 +184,12 @@ React MERN APIs AI Design Systems
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=00000000&title_color=7F5AF0&icon_color=00D9FF&text_color=94A3B8" />
+<a href="https://github.com/Leelaprasath">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Leelaprasath&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=00000000&title_color=7F5AF0&icon_color=00D9FF&text_color=94A3B8" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=7F5AF0&text_color=94A3B8" />
+<a href="https://github.com/Leelaprasath">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leelaprasath&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=7F5AF0&text_color=94A3B8" />
 </a>
 
 </div>
@@ -198,7 +198,7 @@ React MERN APIs AI Design Systems
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000&ring=7F5AF0&fire=FF6B6B&currStreakLabel=00D9FF" />
+<img src="https://streak-stats.demolab.com?user=Leelaprasath&theme=tokyonight&hide_border=true&background=00000000&ring=7F5AF0&fire=FF6B6B&currStreakLabel=00D9FF" />
 
 </div>
 
@@ -208,7 +208,7 @@ React MERN APIs AI Design Systems
 
 <!-- Enable the snake workflow in your repository to activate this animation -->
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+<img src="https://raw.githubusercontent.com/Leelaprasath/Leelaprasath/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 
 </div>
 
@@ -247,15 +247,15 @@ Build simple. Design intentionally. Measure everything. Ship continuously.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/leela-prasath-a8290423b/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:leelaprasath434@gmail.com">
 <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Leelaprasath">
 <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
